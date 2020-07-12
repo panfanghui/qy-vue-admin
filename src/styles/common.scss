@@ -1,0 +1,115 @@
+.flex {
+    display: flex;
+}
+
+.margin_auto {
+    margin: 0 auto;
+}
+
+.flex_dircration {
+    flex-direction: column;
+}
+
+.align_center {
+    align-items: center;
+}
+
+.space_between {
+    justify-content: space-between;
+}
+
+.space_around {
+    justify-content: space-around;
+}
+
+.space_center {
+    justify-content: center;
+}
+
+.font_c_blue {
+    color: #1890ff;
+}
+
+.pagination {
+    position: absolute;
+    bottom: 0px;
+}
+
+.margin_b_10 {
+    margin-bottom: 10px;
+}
+
+.margin_r_10 {
+    margin-right: 10px;
+}
+
+.margin_l_10 {
+    margin-left: 10px;
+}
+
+.margin_t_10 {
+    margin-top: 10px;
+}
+
+.position_right {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.input_style_none {
+    border: none;
+}
+
+.height_600 {
+    height: 700px!important;
+}
+
+.position_r {
+    position: relative;
+}
+
+.position_b {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.width_20 {
+    width: 20%!important;
+}
+
+.w100 {
+    width: 100%!important;
+}
+
+.width_400 {
+    width: 400px!important;
+}
+
+.w_100 {
+    width: 100px;
+}
+
+.padding_10 {
+    padding: 10px;
+}
+
+// .el-table {
+//     overflow: auto!important;
+// }
+.el-form-item__label {
+    text-align: left!important;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.input_width_300 {
+    width: 300px!important;
+}
+
+.flex-grow {
+    flex-grow: 1;
+}
